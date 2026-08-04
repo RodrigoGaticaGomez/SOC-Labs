@@ -1,5 +1,13 @@
 # Athena Cybersecurity Labs
 
+##  Sobre mí
+
+Hola, soy **Rodrigo Gatica**, estudiante de Ingeniería en Ciberseguridad.
+
+Actualmente me encuentro desarrollando **Athena Cybersecurity Labs**, un laboratorio personal orientado al aprendizaje práctico en Blue Team, monitoreo, respuesta a incidentes, SIEM y automatización.
+
+Mi objetivo es construir experiencia mediante laboratorios reproducibles y documentados, fortaleciendo las habilidades necesarias para desempeñarme profesionalmente en un Centro de Operaciones de Seguridad (SOC).
+
 Blue Team • SOC • SIEM • Threat Detection • DFIR • Linux
 
 ![Blue Team](https://img.shields.io/badge/Blue-Team-blue)
@@ -106,8 +114,16 @@ VS Code
 
 ## Objetivo Profesional
 
-Mi objetivo con Athena Cybersecurity Labs es fortalecer habilidades prácticas en Blue Team mediante la construcción de laboratorios reproducibles y documentados, desarrollando experiencia en monitoreo, detección, investigación y respuesta a incidentes para desempeñarme profesionalmente en un SOC.
+Mi objetivo con Athena Cybersecurity Labs es desarrollar habilidades prácticas en Blue Team mediante la construcción de laboratorios reproducibles y documentados, desarrollando experiencia en monitoreo, detección, investigación y respuesta a incidentes para desempeñarme profesionalmente en un SOC.
 
 ---
+
+LinkedIn 
+
+www.linkedin.com/in/rodrigo-gatica-gómez-66a697a8
+
+Correo profesional
+
+rodrigo.gatica@protonmail.com
 
 Proyecto Athena 
