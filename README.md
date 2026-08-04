@@ -1,8 +1,8 @@
 # Athena Cybersecurity Labs
 
-Blue Team • SOC • SIEM • Threat Detection • DFIR • Linux!
+Blue Team • SOC • SIEM • Threat Detection • DFIR • Linux
 
-[Blue Team](https://img.shields.io/badge/Blue-Team-blue)
+![Blue Team](https://img.shields.io/badge/Blue-Team-blue)
 ![SOC](https://img.shields.io/badge/SOC-Learning-success)
 ![Linux](https://img.shields.io/badge/Linux-Ubuntu-E95420)
 ![Status](https://img.shields.io/badge/Status-Active-brightgreen)
