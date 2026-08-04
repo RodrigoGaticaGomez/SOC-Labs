@@ -27,23 +27,23 @@ El objetivo es documentar evidencia práctica de aprendizaje en áreas como:
 
 ## Competencias
 
-Threat Detection
-Incident Response
-Log Analysis
-Blue Team
-SIEM
-Threat Hunting
+-Threat Detection
+-Incident Response
+-Log Analysis
+-Blue Team
+-SIEM
+-Threat Hunting
 
 ## Tecnologías
 
-Ubuntu
-Kali Linux
-Splunk
-Sysmon
-Bash
-Git
-GitHub
-VirtualBox
+-Ubuntu
+-Kali Linux
+-Splunk
+-Sysmon
+-Bash
+-Git
+-GitHub
+-VirtualBox
 
 ---
 
@@ -86,7 +86,7 @@ Generación de eventos JSON compatibles con SIEM.
 
 ## Tecnologías Utilizadas
 
--Operating Systems
+###Operating Systems
 
 Ubuntu
 
@@ -94,19 +94,19 @@ Kali Linux
 
 Windows
 
--Security
+###Security
 
 Sysmon
 Splunk
 Suricata
 AIDE
 
--Networking
+###Networking
 
 Nmap
 Wireshark
 
--Development
+###Development
 
 Bash
 Git
