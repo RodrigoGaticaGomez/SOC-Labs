@@ -87,35 +87,33 @@ Generación de eventos JSON compatibles con SIEM.
 
 ---
 
-## Tecnologías Utilizadas
+## 🧰 Tecnologías Utilizadas
 
 ### Operating Systems
 
-Ubuntu
-
-Kali Linux
-
-Windows
+- Ubuntu
+- Kali Linux
+- Windows
 
 ### Security
 
-Sysmon
-Splunk
-Suricata
-AIDE
+- Sysmon
+- Splunk
+- Suricata
+- AIDE
 
 ### Networking
 
-Nmap
-Wireshark
+- Nmap
+- Wireshark
 
 ### Development
 
-Bash
-Git
-GitHub
-VS Code
-
+- Bash
+- Git
+- GitHub
+- VS Code
+  
 ---
 
 ## Objetivo Profesional
