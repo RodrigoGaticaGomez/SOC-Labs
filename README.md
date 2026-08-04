@@ -1,5 +1,11 @@
 # Athena Cybersecurity Labs
 
+![Blue Team](https://img.shields.io/badge/Blue-Team-blue)
+![SOC](https://img.shields.io/badge/SOC-Learning-success)
+![Linux](https://img.shields.io/badge/Linux-Ubuntu-E95420)
+![Status](https://img.shields.io/badge/Status-Active-brightgreen)
+![License](https://img.shields.io/badge/License-MIT-green)
+
 ##  Sobre mí
 
 Hola, soy **Rodrigo Gatica**, estudiante de Ingeniería en Ciberseguridad.
@@ -10,11 +16,6 @@ Mi objetivo es construir experiencia mediante laboratorios reproducibles y docum
 
 Blue Team • SOC • SIEM • Threat Detection • DFIR • Linux
 
-![Blue Team](https://img.shields.io/badge/Blue-Team-blue)
-![SOC](https://img.shields.io/badge/SOC-Learning-success)
-![Linux](https://img.shields.io/badge/Linux-Ubuntu-E95420)
-![Status](https://img.shields.io/badge/Status-Active-brightgreen)
-![License](https://img.shields.io/badge/License-MIT-green)
 
 ## Sobre este repositorio
 
