@@ -126,6 +126,12 @@ Mi objetivo con Athena Cybersecurity Labs es desarrollar habilidades prácticas 
 - **LinkedIn:** www.linkedin.com/in/rodrigo-gatica-gómez-66a697a8
 - **Correo profesional:** rodrigo.gatica@protonmail.com
 
-Proyecto Athena Cybersecurity Labs
+---
 
-Laboratorios construidos con propósito, evidencia y aprendizaje continuo.
+## Gracias por visitar Athena Cybersecurity Labs
+
+Este proyecto evoluciona continuamente a medida que avanzo en mi formación y desarrollo profesional en ciberseguridad.
+
+**Athena Cybersecurity Labs**
+
+*Laboratorios construidos con propósito, evidencia y aprendizaje continuo.*
