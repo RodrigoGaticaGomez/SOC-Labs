@@ -116,9 +116,7 @@ Generación de eventos JSON compatibles con SIEM.
   
 ---
 
-## Objetivo Profesional
-
-Mi objetivo con Athena Cybersecurity Labs es desarrollar habilidades prácticas en Blue Team mediante la construcción de laboratorios reproducibles y documentados, desarrollando experiencia en monitoreo, detección, investigación y respuesta a incidentes para desempeñarme profesionalmente en un SOC.
+Mi objetivo con Athena Cybersecurity Labs es desarrollar habilidades prácticas en Blue Team mediante la construcción de laboratorios reproducibles y documentados, adquiriendo experiencia en monitoreo, detección, investigación y respuesta a incidentes para desempeñarme profesionalmente en un Centro de Operaciones de Seguridad (SOC).
 
 ---
 
