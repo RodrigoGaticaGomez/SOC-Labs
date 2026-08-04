@@ -38,6 +38,24 @@ VirtualBox
 
 ---
 
+## Proyectos Destacados
+
+⭐ Athena Guard
+
+Motor de respuesta automatizada para eventos de seguridad.
+
+⭐ CASO-010
+
+Integración completa con Splunk Enterprise.
+
+⭐ CASO-008
+
+Monitoreo de integridad mediante AIDE.
+
+⭐ CASO-009
+
+Generación de eventos JSON compatibles con SIEM.
+
 ## Laboratorios
 
 | Caso | Tema                    | Estado |
