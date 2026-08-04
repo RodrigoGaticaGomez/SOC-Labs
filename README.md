@@ -14,7 +14,7 @@ Hola, soy **Rodrigo Gatica**, estudiante de Ingeniería en Ciberseguridad.
 
 Actualmente me encuentro desarrollando **Athena Cybersecurity Labs**, un laboratorio personal orientado al aprendizaje práctico en Blue Team, monitoreo, respuesta a incidentes, SIEM y automatización.
 
-Mi objetivo es construir experiencia mediante laboratorios reproducibles y documentados, fortaleciendo las habilidades necesarias para desempeñarme profesionalmente en un Centro de Operaciones de Seguridad (SOC).
+Mi objetivo es construir experiencia mediante laboratorios reproducibles y documentados, desarrollando las habilidades necesarias para desempeñarme profesionalmente en un Centro de Operaciones de Seguridad (SOC).
 
 Blue Team • SOC • SIEM • Threat Detection • DFIR • Linux
 
@@ -23,29 +23,31 @@ Blue Team • SOC • SIEM • Threat Detection • DFIR • Linux
 
 Athena Cybersecurity Labs es un laboratorio personal de ciberseguridad enfocado en Blue Team, detección de amenazas, respuesta a incidentes y automatización.
 
-Cada laboratorio está construido y documentado con metodología, evidencia y conclusiones técnicas, simulando el enfoque utilizado en un Centro de Operaciones de Seguridad (SOC).
+Cada laboratorio está construido y documentado con metodología, evidencia y conclusiones técnicas, siguiendo metodologías utilizadas en un Centro de Operaciones de Seguridad (SOC).
 
 El objetivo es documentar evidencia práctica de aprendizaje en áreas como:
 
 ## Competencias
 
--Threat Detection
--Incident Response
--Log Analysis
--Blue Team
--SIEM
--Threat Hunting
+## 🛡️ Competencias
 
-## Tecnologías
+- Threat Detection
+- Incident Response
+- Log Analysis
+- Blue Team Operations
+- SIEM
+- Threat Hunting
 
--Ubuntu
--Kali Linux
--Splunk
--Sysmon
--Bash
--Git
--GitHub
--VirtualBox
+## 💻 Tecnologías
+
+- Ubuntu
+- Kali Linux
+- Splunk
+- Sysmon
+- Bash
+- Git
+- GitHub
+- VirtualBox
 
 ---
 
@@ -69,20 +71,19 @@ Generación de eventos JSON compatibles con SIEM.
 
 ## Laboratorios
 
-| Caso | Tema                    | Estado |
-| ---- | ----------------------- | ------ |
-| 001  | SMB Detection           | ✅      |
-| 002  | Reconocimiento de Red   | ✅      |
-| 003  | Phishing                | ✅      |
-| 004  | Suricata                | ✅      |
-| 005  | Nginx                   | ✅      |
-| 006  | Baseline                | ✅      |
-| 007  | SSH                     | ✅      |
-| 008  | AIDE                    | ✅      |
-| 009  | Athena Guard JSON       | ✅      |
-| 010  | Splunk                  | ✅      |
-| 011  | Athena Guard Automation | 🚧     |
-
+| Caso | Área                 | Estado | Descripción                                      |
+| ---- | -------------------- | :----: | ------------------------------------------------ |
+| 001  | Windows              |    ✅   | Detección de conexiones SMB mediante Sysmon      |
+| 002  | Networking           |    ✅   | Reconocimiento autorizado de red con Nmap        |
+| 003  | Email Security       |    ✅   | Análisis de phishing e indicadores de compromiso |
+| 004  | IDS                  |    ✅   | Detección de escaneo con Suricata                |
+| 005  | Web Security         |    ✅   | Análisis de ataques sobre Nginx                  |
+| 006  | Linux                |    ✅   | Línea base y monitoreo del sistema               |
+| 007  | Authentication       |    ✅   | Detección de fuerza bruta SSH                    |
+| 008  | Integrity Monitoring |    ✅   | Monitoreo de integridad con AIDE                 |
+| 009  | SIEM Engineering     |    ✅   | Generación de eventos JSON para Athena Guard     |
+| 010  | SIEM                 |    ✅   | Integración con Splunk Enterprise                |
+| 011  | Automation           |   🚧   | Respuesta automatizada con Athena Guard          |
 
 ---
 
