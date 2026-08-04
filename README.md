@@ -85,25 +85,27 @@ Generación de eventos JSON compatibles con SIEM.
 
 ## Tecnologías Utilizadas
 
-Operating Systems
+-Operating Systems
 
 Ubuntu
+
 Kali Linux
+
 Windows
 
-Security
+-Security
 
 Sysmon
 Splunk
 Suricata
 AIDE
 
-Networking
+-Networking
 
 Nmap
 Wireshark
 
-Development
+-Development
 
 Bash
 Git
@@ -126,4 +128,6 @@ Correo profesional
 
 rodrigo.gatica@protonmail.com
 
-Proyecto Athena 
+Proyecto Athena Cybersecurity Labs
+
+Laboratorios construidos con propósito, evidencia y aprendizaje continuo.
